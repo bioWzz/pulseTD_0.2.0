@@ -1,4 +1,4 @@
-# pulseTD_0.1.0
+# pulseTD_0.2.0
 # Information
 **Package:** pulseTD
 
@@ -10,9 +10,9 @@
 
 **Title:** Identification of Transcriptional Dynamics using Pulse Models via 4su-Seq Data and RNA-Seq Data
 
-**Version:** 0.1.0
+**Version:** 0.2.0
 
-**Date:** 2019-5-5
+**Date:** 2020-1-17
 
 **Description:** This package, based on 4sU-seq data and RNA-seq data, analyzes the transcription, processing and degradation rates of genes. pulseTD can not only recognize the transcriptional dynamic rate of the measurement time points, but also obtain continuous changes in transcriptional dynamics. More importantly, it is able to predict the trend of mRNA transcription and expression changes in the future. In terms of performance, pulseTD has better robustness and accuracy than other methods.
 
